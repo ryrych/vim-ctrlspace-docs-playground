@@ -8,11 +8,11 @@
 
 ```shell
 $ vim
-<kbd>CTRL</kbd>+<kbd>C</kbd>
-<kbd>b</kbd>
-<kbd>a</kbd>
-⌗ Add directory to bookmarks: /Users/ryrych/projects/ember_awesome/<kbd>Enter</kbd>
-⌗ New bookmark name: Ember is Awesome Bookmark<kbd>Enter</kbd>
+[CTRL]+[C]
+[b]
+[a]
+⌗ Add directory to bookmarks: /Users/ryrych/projects/ember_awesome/[Enter]
+⌗ New bookmark name: Ember is Awesome Bookmark[Enter]
 ```
 
 After adding the project to bookmarks, you choose the project from the list
