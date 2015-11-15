@@ -48,6 +48,8 @@ open the search mode with <kbd>/</kbd>.
 
 ### I want to group files in a separate tab
 
+[![asciicast](https://asciinema.org/a/30059.png)](https://asciinema.org/a/30059)
+
 ```shell
 $ vim
 
