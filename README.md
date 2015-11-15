@@ -48,7 +48,7 @@ open the search mode with <kbd>/</kbd>.
 
 ### I want to group files in a separate tab
 
-<script src="https://gist.github.com/ryrych/e95ba23a5f71c93cfda4.js"></script>
+<script src="http://htmlpreview.github.io/?https://cdn.rawgit.com/ryrych/e95ba23a5f71c93cfda4/raw/c1b5dcd71d7161fb822bc64b8985442e17428c33/opening_files_in_a_separate_tab.md"></script>
 
 #### Notes
 
