@@ -48,7 +48,46 @@ open the search mode with <kbd>/</kbd>.
 
 ### I want to group files in a separate tab
 
-<script src="https://gist.github.com/ryrych/e95ba23a5f71c93cfda4.js"></script>
+```shell
+$ vim
+
+# Open Ember project
+[CTRL]+[SPACE]
+[B]
+>ember<
+[Enter]
+
+# Search for `README.md` and open it in the current tab without closing the plugin window
+[O]
+>readme<
+[enter][space]
+
+# Open 3 files in a separate tab (note the `+3` indicator)
+[/]
+[CTRL]+[U]
+>computed<
+
+# Select each file with:
+[SHIFT]+[T]
+
+# Clear search term
+[/]
+[CTRL]+[U]
+[/]
+
+# Open list of tabs
+[l]
+
+# Give second tab custom label
+[j]
+[=]
+>Computed feature + spec<
+[Enter]
+[ESC]
+[qa]
+```
+
+[Link to gist](https://gist.github.com/ryrych/e95ba23a5f71c93cfda4)
 
 #### Notes
 
