@@ -96,3 +96,15 @@ $ vim
 <kbd>[CTRL]+[U]</kbd> is a normal shell command to clear backward from point to
 the beginning of line. You can use any valid command like <kbd>[CTRL]+[H]</kbd>.
 See this [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f) for more.
+
+##### Clear search term improved
+
+Instead of:
+
+```shell
+[/]
+[CTRL]+[U]
+[/]
+```
+
+you can just press <kbd>[Backspace]</kbd>.
