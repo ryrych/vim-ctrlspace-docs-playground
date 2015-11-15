@@ -45,3 +45,13 @@ $ vim
 
 Alternatively you can open the list of projects with <kbd>b</kbd> and then
 open the search mode with <kbd>/</kbd>.
+
+### I want to group files in a separate tab
+
+<script src="https://gist.github.com/ryrych/e95ba23a5f71c93cfda4.js"></script>
+
+#### Notes
+
+<kbd>[CTRL]+[U]</kbd> is a normal shell command to clear backward from point to
+the beginning of line. You can use any valid command like <kbd>[CTRL]+[H]</kbd>.
+See this [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f) for more.
