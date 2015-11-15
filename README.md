@@ -32,3 +32,16 @@ project. After indexing you should get this message:
 ```
 
 As before use <kbd>j</kbd> and <kbd>k</kbd> keys for navigation.
+
+### I want to open a bookmarked project (in search mode)
+
+[![asciicast](https://asciinema.org/a/30055.png)](https://asciinema.org/a/30055)
+
+```shell
+$ vim
+[CTRL]+[C]
+[B]
+```
+
+Alternatively you can open the list of projects with <kbd>b</kbd> and then
+open the search mode with <kbd>/</kbd>.
